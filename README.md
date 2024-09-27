@@ -12,4 +12,10 @@
 ## apriori_2：v.1.2.0927
 第二个版本，优化了四个按键实现的冗余代码，将四个功能封装成一个函数，同时加入了剪枝操作优化代码，优化了效率。
 
-要求几乎都完成了：![img00](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/image.73twuhnqvg.webp)
+
+
+
+
+
+# 原始要求：
+![img00](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/image.73twuhnqvg.webp)
