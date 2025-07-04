@@ -22,4 +22,4 @@ max_items = 10 # 设置每个交易的最大商品数量
 transactions = generate_transactions(num_transactions, max_items)
 print_transactions(transactions)
 
-# 实现了新的功能1
+# 实现了新的功能 1
