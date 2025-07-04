@@ -23,3 +23,6 @@ transactions = generate_transactions(num_transactions, max_items)
 print_transactions(transactions)
 
 # 实现了新的功能 1
+
+#功能2
+#功能3
